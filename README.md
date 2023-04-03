@@ -11,6 +11,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickalv3s&repo=projeto-the-last-of-us&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick.alv3s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickalv3s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
