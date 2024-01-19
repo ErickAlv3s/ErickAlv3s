@@ -6,6 +6,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickalv3s&show_icons=true&theme=dark)
 
 ### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickalv3s&repo=BuscadorCep&theme=dark)](https://github.com/ErickAlv3s/BuscadorCep)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickalv3s&repo=AplicacaodeCompras&theme=dark)](https://github.com/ErickAlv3s/Aplicacaodecompras)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickalv3s&repo=Projeto-TikTok&theme=dark)](https://github.com/ErickAlv3s/Projeto-TikTok)
